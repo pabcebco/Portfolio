@@ -1,4 +1,5 @@
 -- Permite calcular la cuota de venta por categoría y mes --
+-- Para estas pruebas estoy utilizando el esquema "sakila", preinstalado en MySQL--
 
 SELECT 
 	month(p.payment_date) as MES, 
