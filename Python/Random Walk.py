@@ -1,13 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[25]:
+"" Conducting some tests on my own ""
 
 
 import numpy as np
 import matplotlib.pyplot as plt
-np.random.seed()
 
+np.random.seed()
 all_walk = []
 for i in range(10):
     complete_walk = [0]
