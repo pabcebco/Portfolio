@@ -1,5 +1,4 @@
-"" Conducting some tests on my own ""
-
+# Conducting some tests on my own 
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -27,10 +26,3 @@ plt.show()
 plt.clf()
 plt.hist(all_walk, bins = 10)
 plt.show()
-
-
-# In[ ]:
-
-
-
-
